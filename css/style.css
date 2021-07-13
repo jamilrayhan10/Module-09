@@ -297,10 +297,11 @@ img {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
-
+.contact-title h2 {
+  color: #dddddd;
+}
 .contact-form {
   background-color: #353535;
-
   padding: 50px 0;
 }
 
